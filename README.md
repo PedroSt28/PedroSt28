@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Pedro <br>Tenho 15 anos <br>Estudante do senai</p>
+<p align="left">Me chamo Pedro <br>Tenho 16 anos <br>Estudante do senai</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">* Trabalho com desenvolvimento de sistemas a 2 anos <br>* Possuo conhecimento de trabalho de equipe <br>* Gosto de resolver problemas e  busco aprender tudo que nao sei</p>
+<p align="left">* Trabalho com desenvolvimento de sistemas a 2 anos <br>* Possuo conhecimento de trabalho de equipe <br>* Gosto de resolver problemas e  busco aprender tudo que não sei</p>
 
 ###
 
